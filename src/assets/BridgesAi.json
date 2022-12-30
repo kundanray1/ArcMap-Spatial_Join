@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "status": "good"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-111.933333, 40.716667]
+          }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+              "status": "good"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-111.933333, 40.816667]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "status": "good"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-111.933333, 40.826667]
+            }
+          },
+        {
+          "type": "Feature",
+          "properties": {
+            "status": "fair"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-112.05, 41.0]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "status": "risk"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-112.3, 41.25] 
+          }
+        },
+          {
+            "type": "Feature",
+            "properties": {
+              "status": "good"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-110.9375, 39.0625] 
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "status": "fair"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-111.933333, 38.716667]  
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "status": "risk"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-112.05, 38.0] 
+            }
+        }
+      ]
+  }

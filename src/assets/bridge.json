@@ -1,0 +1,1986 @@
+ {
+        "type": "FeatureCollection",
+        "name": "survey_repub",
+        "crs": {
+            "type": "name",
+            "properties": {
+                "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+            }
+        },
+        "features": [
+            {
+                "type": "Feature",
+"properties":{
+                    "status":"good",
+                    "globalid": "d60a1938-5414-4ce9-877e-176b95d8ada6",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-09-17",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "Louis Lake Road/Crossing Popo Agie River",
+                    "bridge_num": "021403000001009",
+                    "grid": "12TXN7589219679",
+                    "bridge_typ": "Timber_Steel_w_Wood_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "Traveled to bridge twice. Got CV stuff Sep/21.",
+                    "would_you_": "Yes",
+                    "please_sel": "Timber_Steel_w_Wood_Deck",
+                    "span_1": "38",
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "38",
+                    "width_br_f": "14.4",
+                    "nl": "1",
+                    "ns": "2",
+                    "ss_in": "134",
+                    "nb": "5",
+                    "sb_ft": "6.3",
+                    "td_in": "5.5",
+                    "b_in": "10",
+                    "d_in": "26.5",
+                    "tf_in": ".75",
+                    "tw_in": "1",
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -108.855348011,
+                            42.60972370700006
+                        ],
+                        [
+                            -108.85544054699994,
+                            42.609644745000026
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    
+                    "globalid": "476a0469-3229-45de-b344-dfcd838f50e2",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-08-20",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "Deer Creek Pkwy/S of Deer Creek Reservoir",
+                    "bridge_num": "051007A",
+                    "grid": "12TVK5492572394",
+                    "bridge_typ": "Timber_Steel_w_Wood_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "What's the bracing required come from?",
+                    "would_you_": "Yes",
+                    "please_sel": "Timber_Steel_w_Wood_Deck",
+                    "span_1": "22.5",
+                    "span_2": "23.75",
+                    "span_3": "23.75",
+                    "span_4": "22.5",
+                    "length_ft": "95",
+                    "width_br_f": "24.5",
+                    "nl": "2",
+                    "ns": "12",
+                    "ss_in": "23.5",
+                    "nb": "3",
+                    "sb_ft": null,
+                    "td_in": "3.75",
+                    "b_in": "8",
+                    "d_in": "17.5",
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.53104249199998,
+                            40.401020849000076
+                        ],
+                        [
+                            -111.53128657299999,
+                            40.400886039000056
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "93c4c35c-5ea7-49c8-a015-bd1728336182",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-08-21",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "Midway Bike Path/Covered Wood Bridge",
+                    "bridge_num": null,
+                    "grid": "12TVK6188984157",
+                    "bridge_typ": "Timber_Steel_w_Wood_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "No",
+                    "additional": "Not in service, but was a motor vehicle bridge long ago (\"Restored for Recreation\"/2002 Winter Olympics)",
+                    "would_you_": "Yes",
+                    "please_sel": "Timber_Steel_w_Wood_Deck",
+                    "span_1": "74",
+                    "span_2": "49",
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "125.5",
+                    "width_br_f": "12.25",
+                    "nl": "1",
+                    "ns": "4",
+                    "ss_in": "50",
+                    "nb": "3",
+                    "sb_ft": null,
+                    "td_in": "3",
+                    "b_in": "8",
+                    "d_in": "50",
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.45010233899995,
+                            40.507115457000054
+                        ],
+                        [
+                            -111.44971073699998,
+                            40.507135850000054
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "a3eaf2d2-271c-4fe6-acda-b65742cf236f",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-02-22",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "S Long Hollow crossing Woodruff Creek",
+                    "bridge_num": "033002A",
+                    "grid": "12TVL7470790935",
+                    "bridge_typ": "Timber_Steel_w_Wood_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "16\" was about the average b.  They were more rectangular in form, but only planed on two sides.  Td on the wearing surface is actually 6\"",
+                    "would_you_": "Yes",
+                    "please_sel": "Timber_Steel_w_Wood_Deck",
+                    "span_1": "19.25",
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "19.25",
+                    "width_br_f": "16",
+                    "nl": "1",
+                    "ns": "7",
+                    "ss_in": "33",
+                    "nb": "0",
+                    "sb_ft": null,
+                    "td_in": "3",
+                    "b_in": "16",
+                    "d_in": "12.5",
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.30287742099995,
+                            41.469620590000034
+                        ],
+                        [
+                            -111.30288010299995,
+                            41.469567330000075
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "63212b19-febd-407c-9838-828ffd105bbf",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-08-22",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "Home Ranch Rd/S of Woodruff",
+                    "bridge_num": "033001A",
+                    "grid": "12TVL8653987001",
+                    "bridge_typ": "Timber_Steel_w_Wood_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "Td on the wearing surface is actually 6\"",
+                    "would_you_": "Yes",
+                    "please_sel": "Timber_Steel_w_Wood_Deck",
+                    "span_1": "21.167",
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "21.167",
+                    "width_br_f": "16",
+                    "nl": "1",
+                    "ns": "12",
+                    "ss_in": "18",
+                    "nb": "0",
+                    "sb_ft": null,
+                    "td_in": "3",
+                    "b_in": "16",
+                    "d_in": "12.5",
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.16114662899997,
+                            41.43448704900004
+                        ],
+                        [
+                            -111.16107957399998,
+                            41.43445688600008
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "f2b0e93c-ef7f-4249-9627-958649776c61",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-08-22",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "East Sterling Ln/S of Sage Creek Junction (UT HWY 30)",
+                    "bridge_num": "033008A",
+                    "grid": "12TVM9228123407",
+                    "bridge_typ": "Timber_Steel_w_Wood_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "\"Td on the wearing surface is actually 6\"",
+                    "would_you_": "Yes",
+                    "please_sel": "Timber_Steel_w_Wood_Deck",
+                    "span_1": "19.583",
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "19.583",
+                    "width_br_f": "15.85",
+                    "nl": "1",
+                    "ns": "8",
+                    "ss_in": "22.5",
+                    "nb": "0",
+                    "sb_ft": null,
+                    "td_in": "3",
+                    "b_in": "16",
+                    "d_in": "12.5",
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.09280726799994,
+                            41.76245595600005
+                        ],
+                        [
+                            -111.09289443999995,
+                            41.76245595600005
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "52575605-4c7d-4d5a-8f6d-01255bf474fe",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-08-22",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "Chokecherry Summer Home Area/Logan Canyon",
+                    "bridge_num": "0V1062",
+                    "grid": "12TVM4532324498",
+                    "bridge_typ": "Timber_Steel_w_Wood_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": null,
+                    "would_you_": "Yes",
+                    "please_sel": "Timber_Steel_w_Wood_Deck",
+                    "span_1": "37.33",
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "37.33",
+                    "width_br_f": "12.75",
+                    "nl": "1",
+                    "ns": "8",
+                    "ss_in": "1.6",
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "3.5",
+                    "b_in": "8",
+                    "d_in": "17.5",
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.65803940599994,
+                            41.770440515000075
+                        ],
+                        [
+                            -111.65774972799994,
+                            41.770448517000034
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"risk",
+                    "globalid": "c3d7f295-306e-4215-94e6-9751b32cc1cc",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-09-17",
+                    "recorded_b": "Brain Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "Louis Lake Road/Crossing Little Popo Agie River",
+                    "bridge_num": "396836",
+                    "grid": "12TXN7608617186",
+                    "bridge_typ": "Timber_Steel_w_Wood_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "There just wasn't much room to get an image below deck",
+                    "would_you_": "Yes",
+                    "please_sel": "Timber_Steel_w_Wood_Deck",
+                    "span_1": "20.5",
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "20.5",
+                    "width_br_f": "13.5",
+                    "nl": "1",
+                    "ns": "8",
+                    "ss_in": "2.17",
+                    "nb": "2",
+                    "sb_ft": "6.7",
+                    "td_in": "3.75",
+                    "b_in": "6",
+                    "d_in": "17",
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -108.85395933599995,
+                            42.58633488100003
+                        ],
+                        [
+                            -108.85391373899995,
+                            42.58628156100008
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"risk",
+                    "globalid": "f5015564-dcdd-4ccb-b5ed-7ac50b1503f8",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-01-13",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "Cottonwood Road",
+                    "bridge_num": null,
+                    "grid": "12TVL1941755489",
+                    "bridge_typ": "Steel_Stringer_w_Cement_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": null,
+                    "would_you_": "Yes",
+                    "please_sel": "Steel_Stringer_w_Cement_Deck",
+                    "span_1": null,
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "131.1",
+                    "width_br_f": "30.6",
+                    "nl": "2",
+                    "ns": "4",
+                    "ss_in": "108",
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "10",
+                    "b_in": "24.5",
+                    "d_in": "56",
+                    "tf_in": "1.5",
+                    "tw_in": ".75",
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.95955890299996,
+                            41.14720377100008
+                        ],
+                        [
+                            -111.95995050599998,
+                            41.146995736000065
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"risk",
+                    "globalid": "04efc6c1-ac00-4a77-b3ff-ba1905f4ab48",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-08-19",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "Peterson",
+                    "bridge_num": null,
+                    "grid": "12TVL3567451814",
+                    "bridge_typ": "Steel_Stringer_w_Cement_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "Very easily accessible",
+                    "would_you_": "Yes",
+                    "please_sel": "Steel_Stringer_w_Cement_Deck",
+                    "span_1": null,
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "83.5",
+                    "width_br_f": "30.5",
+                    "nl": "2",
+                    "ns": "4",
+                    "ss_in": "110",
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "10",
+                    "b_in": "12",
+                    "d_in": "55",
+                    "tf_in": "2",
+                    "tw_in": "2",
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.76715107499996,
+                            41.114626989000044
+                        ],
+                        [
+                            -111.76743538899996,
+                            41.114556262000065
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"risk",
+                    "globalid": "9b65bbe1-de40-4c94-8641-97e2516b42f8",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-07-16",
+                    "recorded_b": "Brian Stearmer & Cole Boyer",
+                    "cos_number": null,
+                    "bridge_nam": "Farmington Canyon",
+                    "bridge_num": null,
+                    "grid": "12TVL2641839281",
+                    "bridge_typ": "Steel_Stringer_w_Cement_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "Rough/heavily sloped terrain around bridge\n",
+                    "would_you_": "Yes",
+                    "please_sel": "Steel_Stringer_w_Cement_Deck",
+                    "span_1": null,
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "75.5",
+                    "width_br_f": "16",
+                    "nl": "1",
+                    "ns": "4",
+                    "ss_in": "58.25",
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "7",
+                    "b_in": "12",
+                    "d_in": "36.25",
+                    "tf_in": "1.25",
+                    "tw_in": ".69",
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.87488677599998,
+                            41.00162292200008
+                        ],
+                        [
+                            -111.87501015699996,
+                            41.00144074000008
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"risk",
+                    "globalid": "de15b090-f5a7-4ec3-aa39-84e3fb10c2d9",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2020-10-23",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "Cache Junction",
+                    "bridge_num": null,
+                    "grid": "12TVM1671332885",
+                    "bridge_typ": "Steel_Stringer_w_Cement_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": null,
+                    "would_you_": "Yes",
+                    "please_sel": "Steel_Stringer_w_Cement_Deck",
+                    "span_1": null,
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "56",
+                    "width_br_f": "37",
+                    "nl": "2",
+                    "ns": "5",
+                    "ss_in": "98.1",
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "10",
+                    "b_in": "12",
+                    "d_in": "35.5",
+                    "tf_in": "1.25",
+                    "tw_in": ".5",
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -112.00277538899996,
+                            41.84400753800003
+                        ],
+                        [
+                            -112.00323136499998,
+                            41.843476028000055
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"risk",
+                    "globalid": "12bbe976-e096-47cb-a6bc-28c6482cdfa6",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2020-10-25",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "Indiana Ave",
+                    "bridge_num": null,
+                    "grid": "12TVL1954211459",
+                    "bridge_typ": "Steel_Stringer_w_Cement_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": null,
+                    "would_you_": "Yes",
+                    "please_sel": "Steel_Stringer_w_Cement_Deck",
+                    "span_1": null,
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "52",
+                    "width_br_f": "49.3",
+                    "nl": "2",
+                    "ns": "6",
+                    "ss_in": "103",
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "10",
+                    "b_in": "12",
+                    "d_in": "29",
+                    "tf_in": "1",
+                    "tw_in": ".75",
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.95292894799996,
+                            40.75033736100005
+                        ],
+                        [
+                            -111.95285384599998,
+                            40.750512108000066
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"risk",
+                    "globalid": "6512fcb4-3658-4cf3-820f-36a345a9bec4",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-09-29",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "California Ave",
+                    "bridge_num": null,
+                    "grid": "12TVL2068710399",
+                    "bridge_typ": "Steel_Stringer_w_Cement_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": null,
+                    "would_you_": "Yes",
+                    "please_sel": "Steel_Stringer_w_Cement_Deck",
+                    "span_1": null,
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "49.2",
+                    "width_br_f": "73",
+                    "nl": "4",
+                    "ns": "19",
+                    "ss_in": "50.4",
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "8.12",
+                    "b_in": "11.25",
+                    "d_in": "19.12",
+                    "tf_in": "1.125",
+                    "tw_in": ".75",
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.93966485299995,
+                            40.740790978000064
+                        ],
+                        [
+                            -111.939487827,
+                            40.74078284900003
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "6e6b3518-807e-4bf6-9130-51c1651c570b",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-02-17",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "Buckhorn Draw",
+                    "bridge_num": null,
+                    "grid": "12SWJ2885825795",
+                    "bridge_typ": "Steel_Stringer_w_Cement_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": null,
+                    "would_you_": "Yes",
+                    "please_sel": "Steel_Stringer_w_Cement_Deck",
+                    "span_1": null,
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "157.75",
+                    "width_br_f": "32",
+                    "nl": "2",
+                    "ns": "4",
+                    "ss_in": "111",
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "10",
+                    "b_in": "16",
+                    "d_in": "71.5",
+                    "tf_in": "2.75",
+                    "tw_in": ".75",
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -110.666079374,
+                            39.08129936100005
+                        ],
+                        [
+                            -110.66629931499995,
+                            39.08090376700005
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "61aeca50-24ed-400e-9978-3d44d1e5af80",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-07-30",
+                    "recorded_b": "Cole Boyer & Hannah Rettig",
+                    "cos_number": null,
+                    "bridge_nam": "Snowbird",
+                    "bridge_num": null,
+                    "grid": "12TVK4545393236",
+                    "bridge_typ": "Steel_Stringer_w_Cement_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": null,
+                    "would_you_": "Yes",
+                    "please_sel": "Steel_Stringer_w_Cement_Deck",
+                    "span_1": null,
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "54.33",
+                    "width_br_f": "36.1",
+                    "nl": "2",
+                    "ns": "4",
+                    "ss_in": "10.3",
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "10",
+                    "b_in": "11",
+                    "d_in": "66",
+                    "tf_in": "1",
+                    "tw_in": "1",
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.64461529899995,
+                            40.58818390500005
+                        ],
+                        [
+                            -111.64455092599997,
+                            40.58804336000003
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "4681943e-f1fe-4475-8f99-b312b9f75cf9",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-09-17",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "County Rd 326/Hams Fork River",
+                    "bridge_num": "396434",
+                    "grid": "12TWM4367922595",
+                    "bridge_typ": "Steel_Stringer_w_Cement_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "Noticeable wear on the bridge surface (down to the corrugated steel)\n",
+                    "would_you_": "Yes",
+                    "please_sel": "Steel_Stringer_w_Cement_Deck",
+                    "span_1": null,
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "47.75",
+                    "width_br_f": "13.5",
+                    "nl": "1",
+                    "ns": "4",
+                    "ss_in": "4.17",
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "5.5",
+                    "b_in": "32.875",
+                    "d_in": "11.5",
+                    "tf_in": ".75",
+                    "tw_in": ".75",
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -110.47458499799995,
+                            41.75401780400006
+                        ],
+                        [
+                            -110.474421383,
+                            41.75397578400003
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "47c3f5bf-08c3-4162-97d5-b0e00b30e0ae",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-08-21",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "West Midway Lane/Provo River crossing, W of Heber City",
+                    "bridge_num": "0D 470",
+                    "grid": "12TVK6189284171",
+                    "bridge_typ": "Cement_T_Beam_w_Asphalt_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "\"Beams started at 46 on edge, to 37 in center (plus 8\"\" above)\"\n",
+                    "would_you_": "Yes",
+                    "please_sel": "Cement_T_Beam_w_Asphalt_Deck",
+                    "span_1": "60",
+                    "span_2": "50",
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "112",
+                    "width_br_f": "26",
+                    "nl": "2",
+                    "ns": "4",
+                    "ss_in": "82",
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "8",
+                    "b_in": "21",
+                    "d_in": "50",
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.44979284799996,
+                            40.50744514200005
+                        ],
+                        [
+                            -111.44962923299994,
+                            40.507381922000036
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "c94b5d96-9856-4cca-935e-66f9d57d0a74",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-08-22",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "FR 007 Temple Fork Trail Head/Logan Canyon",
+                    "bridge_num": "41907000013695",
+                    "grid": "12TVM5077131650",
+                    "bridge_typ": "Cement_T_Beam_w_Asphalt_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "Beams were actually I beam in form, 6\" Tw",
+                    "would_you_": "Yes",
+                    "please_sel": "Cement_T_Beam_w_Asphalt_Deck",
+                    "span_1": "59",
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "59",
+                    "width_br_f": "15",
+                    "nl": "1",
+                    "ns": "3",
+                    "ss_in": "61",
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "8",
+                    "b_in": "26",
+                    "d_in": "32.25",
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.59313020599996,
+                            41.83530700100005
+                        ],
+                        [
+                            -111.592945134,
+                            41.835221069000056
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"fair",
+                    "globalid": "a4388c14-10b6-40f8-a829-d23aa39142b2",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2020-10-22",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "Redwood Rd/Jordan River Crossing in Rosepark",
+                    "bridge_num": "0D 564",
+                    "grid": "12TVL2079917894",
+                    "bridge_typ": "Concrete_Slab_w_Asphalt_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": null,
+                    "would_you_": "Yes",
+                    "please_sel": "Concrete_Slab_w_Asphalt_Deck",
+                    "span_1": null,
+                    "span_2": "40.25",
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "83",
+                    "width_br_f": "33.75",
+                    "nl": null,
+                    "ns": null,
+                    "ss_in": null,
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "37",
+                    "b_in": null,
+                    "d_in": null,
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": "36.75",
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.93899891499996,
+                            40.808305921000056
+                        ],
+                        [
+                            -111.93904451199995,
+                            40.80807854300008
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"fair",
+                    "globalid": "bbd90c93-d50b-44d1-9751-8b6cadd168bd",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-06-29",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "W 4600 S/W of Riverdale City Office",
+                    "bridge_num": "057050F",
+                    "grid": "12TVL1663259062",
+                    "bridge_typ": "Concrete_Slab_w_Asphalt_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": null,
+                    "would_you_": "Yes",
+                    "please_sel": "Concrete_Slab_w_Asphalt_Deck",
+                    "span_1": "90",
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "90",
+                    "width_br_f": "28.75",
+                    "nl": null,
+                    "ns": null,
+                    "ss_in": null,
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "37",
+                    "b_in": null,
+                    "d_in": null,
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": "29",
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.99402520899997,
+                            41.17868489400007
+                        ],
+                        [
+                            -111.99369529699999,
+                            41.17869095100008
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"fair",
+                    "globalid": "a61b547b-7b3a-49d8-8a5f-2050eda076ab",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-09-17",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "FSR 300/Rock Creek",
+                    "bridge_num": "396838",
+                    "grid": "12TXN7608517188",
+                    "bridge_typ": "Concrete_Slab_w_Asphalt_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": null,
+                    "would_you_": "Yes",
+                    "please_sel": "Concrete_Slab_w_Asphalt_Deck",
+                    "span_1": "25",
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "25",
+                    "width_br_f": "19",
+                    "nl": null,
+                    "ns": null,
+                    "ss_in": null,
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "19",
+                    "b_in": null,
+                    "d_in": null,
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": "22.33",
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -108.85398296699998,
+                            42.58706255000004
+                        ],
+                        [
+                            -108.85400978899997,
+                            42.586995408000064
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"fair",
+                    "globalid": "d0824969-a1db-4603-9f71-bf6c3c554f32",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-07-30",
+                    "recorded_b": "Team",
+                    "cos_number": null,
+                    "bridge_nam": "Little Cottonwood Rd/Crossing Little Cottonwood Creek",
+                    "bridge_num": "0D 807",
+                    "grid": "12TVK3410291564",
+                    "bridge_typ": "Masonry_Arch",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "Bridge access is through private property. Will need to get permission from owner to go in their yard.",
+                    "would_you_": "Yes",
+                    "please_sel": "Masonry_Arch",
+                    "span_1": "11",
+                    "span_2": "14.8",
+                    "span_3": "11.1",
+                    "span_4": null,
+                    "length_ft": "69",
+                    "width_br_f": "23.8",
+                    "nl": null,
+                    "ns": null,
+                    "ss_in": null,
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": null,
+                    "b_in": null,
+                    "d_in": null,
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": "10.4",
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.77867304599994,
+                            40.572239050000064
+                        ],
+                        [
+                            -111.77842360099999,
+                            40.572241087000066
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "716c1676-450f-4c2f-a55d-72f757ed3cef",
+                    "CreationDa": "2021-09-30",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-09-30",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-08-23",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "Woodruff Creek Rd/crossing Woodruff Creek/W of Woodruff",
+                    "bridge_num": "033010V",
+                    "grid": "12TVL7778092546",
+                    "bridge_typ": "Masonry_Arch",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": null,
+                    "would_you_": "Yes",
+                    "please_sel": "Masonry_Arch",
+                    "span_1": "21.5",
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "21.5",
+                    "width_br_f": "17",
+                    "nl": null,
+                    "ns": null,
+                    "ss_in": null,
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": null,
+                    "b_in": null,
+                    "d_in": null,
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": "3.5",
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.266195945,
+                            41.48422653700004
+                        ],
+                        [
+                            -111.26612486699997,
+                            41.48420041500003
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "7f104067-44c5-41a0-9104-610fb25c3a89",
+                    "CreationDa": "2021-10-01",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-10-01",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-09-17",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "Hwy 28/Sweetwater River",
+                    "bridge_num": "395848",
+                    "grid": "12TXM7300294096",
+                    "bridge_typ": "Cement_I_Beam",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": null,
+                    "would_you_": "Yes",
+                    "please_sel": "Cement_I_Beam",
+                    "span_1": null,
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "125.75",
+                    "width_br_f": "36",
+                    "nl": "2",
+                    "ns": "6",
+                    "ss_in": "8.5",
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "8",
+                    "b_in": "5.83",
+                    "d_in": "24",
+                    "tf_in": "6.5",
+                    "tw_in": "7.5",
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -108.89841364299997,
+                            42.38006065700006
+                        ],
+                        [
+                            -108.89860676199999,
+                            42.37974760800006
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "b63f138a-2d47-49fc-af62-8028c5844146",
+                    "CreationDa": "2021-10-01",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-10-01",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-08-30",
+                    "recorded_b": "Hannah Rettig",
+                    "cos_number": null,
+                    "bridge_nam": "2901 S 900 W",
+                    "bridge_num": null,
+                    "grid": "12TVL2254206784",
+                    "bridge_typ": "Concrete_Slab_w_Asphalt_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "Easily accessible from road. Industrial area with lots of large trucks traveling over it. Use caution\n",
+                    "would_you_": "Not_now",
+                    "please_sel": null,
+                    "span_1": null,
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": null,
+                    "width_br_f": null,
+                    "nl": null,
+                    "ns": null,
+                    "ss_in": null,
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": null,
+                    "b_in": null,
+                    "d_in": null,
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.91696555099998,
+                            40.708407599000054
+                        ],
+                        [
+                            -111.91696018599998,
+                            40.70823884200007
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "4760226a-161d-4156-bbe1-2b506a0d1651",
+                    "CreationDa": "2021-10-01",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-10-01",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-08-30",
+                    "recorded_b": "Hannah Rettig",
+                    "cos_number": null,
+                    "bridge_nam": "Church Fork Timber Bridge",
+                    "bridge_num": null,
+                    "grid": "12TVL3725605465",
+                    "bridge_typ": "Timber_Steel_w_Wood_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": null,
+                    "would_you_": "Not_now",
+                    "please_sel": null,
+                    "span_1": null,
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": null,
+                    "width_br_f": null,
+                    "nl": null,
+                    "ns": null,
+                    "ss_in": null,
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": null,
+                    "b_in": null,
+                    "d_in": null,
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.74279476699996,
+                            40.697753902000045
+                        ],
+                        [
+                            -111.74262042299995,
+                            40.697696963000055
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "b4cfab2f-14f4-4c42-b445-8e2341628ba0",
+                    "CreationDa": "2021-10-01",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-10-01",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-08-31",
+                    "recorded_b": "Hannah Rettig",
+                    "cos_number": null,
+                    "bridge_nam": "Grant Ave",
+                    "bridge_num": null,
+                    "grid": "12TVL1845465105",
+                    "bridge_typ": "Steel_Stringer_w_Cement_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "Very easy access under the bridge",
+                    "would_you_": "Not_now",
+                    "please_sel": null,
+                    "span_1": null,
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": null,
+                    "width_br_f": null,
+                    "nl": null,
+                    "ns": null,
+                    "ss_in": null,
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": null,
+                    "b_in": null,
+                    "d_in": null,
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.97302955999999,
+                            41.23334613700007
+                        ],
+                        [
+                            -111.973034924,
+                            41.233124255000064
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "bdf49f1d-76dd-4f33-a475-1b39de330d89",
+                    "CreationDa": "2021-10-01",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-10-01",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-08-30",
+                    "recorded_b": "Hannah Rettig",
+                    "cos_number": null,
+                    "bridge_nam": "James Madison Park",
+                    "bridge_num": null,
+                    "grid": "12TVL2188505806",
+                    "bridge_typ": "Concrete_Slab_w_Asphalt_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "Homeless people everywhere, have not acquired truth measurements for this bridge. However, should be okay with two or more people",
+                    "would_you_": "Not_now",
+                    "please_sel": null,
+                    "span_1": null,
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": null,
+                    "width_br_f": null,
+                    "nl": null,
+                    "ns": null,
+                    "ss_in": null,
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": null,
+                    "b_in": null,
+                    "d_in": null,
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.92488603699996,
+                            40.699495539000054
+                        ],
+                        [
+                            -111.92417256899995,
+                            40.699495539000054
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"risk",
+                    "globalid": "b3b6ae6c-6853-4c95-bf2b-639f00c9148c",
+                    "CreationDa": "2021-10-01",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-10-01",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-08-30",
+                    "recorded_b": "Hannah Rettig",
+                    "cos_number": null,
+                    "bridge_nam": "Porter Fork, Millcreek Canyon",
+                    "bridge_num": null,
+                    "grid": "12TVL3897705605",
+                    "bridge_typ": "Timber_Steel_w_Wood_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "Have to pay to enter Millcreek Canyon",
+                    "would_you_": "Not_now",
+                    "please_sel": null,
+                    "span_1": null,
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": null,
+                    "width_br_f": null,
+                    "nl": null,
+                    "ns": null,
+                    "ss_in": null,
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": null,
+                    "b_in": null,
+                    "d_in": null,
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.72232412799997,
+                            40.699156462000076
+                        ],
+                        [
+                            -111.72228121199998,
+                            40.69909342300008
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"risk",
+                    "globalid": "1ce2c0a4-ceaf-4064-95e1-9a80fe2b56e0",
+                    "CreationDa": "2021-10-01",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-10-01",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-09-19",
+                    "recorded_b": "Team",
+                    "cos_number": null,
+                    "bridge_nam": "Morgan",
+                    "bridge_num": null,
+                    "grid": "12TVL4483943516",
+                    "bridge_typ": "Truss",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "Suitable for LiDAR specifically\n",
+                    "would_you_": "Not_now",
+                    "please_sel": null,
+                    "span_1": null,
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": null,
+                    "width_br_f": null,
+                    "nl": null,
+                    "ns": null,
+                    "ss_in": null,
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": null,
+                    "b_in": null,
+                    "d_in": null,
+                    "tf_in": null,
+                    "tw_in": null,
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.65609619399999,
+                            41.041037792000054
+                        ],
+                        [
+                            -111.65642878799997,
+                            41.04094675600004
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"risk",
+                    "globalid": "4a89c5e6-463a-4708-b05e-b40afb4a204e",
+                    "CreationDa": "2021-10-01",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-10-01",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-09-17",
+                    "recorded_b": "Brian Stearmer",
+                    "cos_number": null,
+                    "bridge_nam": "New CCC Bridge/County Rd 8/Green River",
+                    "bridge_num": "396473",
+                    "grid": "12TWM7907648029",
+                    "bridge_typ": "Steel_Stringer_w_Cement_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": null,
+                    "would_you_": "Yes",
+                    "please_sel": "Steel_Stringer_w_Cement_Deck",
+                    "span_1": "62",
+                    "span_2": "81",
+                    "span_3": "64.17",
+                    "span_4": null,
+                    "length_ft": null,
+                    "width_br_f": "14.17",
+                    "nl": "1",
+                    "ns": "3",
+                    "ss_in": "66",
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "7.5",
+                    "b_in": "35.75",
+                    "d_in": "12.125",
+                    "tf_in": "1",
+                    "tw_in": ".75",
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -110.04573302299997,
+                            41.98044351000004
+                        ],
+                        [
+                            -110.04523413199996,
+                            41.98016835400006
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "9aed6d6d-90db-4b0b-bbd2-7c18ed06d379",
+                    "CreationDa": "2021-10-04",
+                    "Creator": "hannah.rettig",
+                    "EditDate": "2021-10-04",
+                    "Editor": "hannah.rettig",
+                    "date_recor": "2021-10-04",
+                    "recorded_b": "Team",
+                    "cos_number": null,
+                    "bridge_nam": "Peterson",
+                    "bridge_num": null,
+                    "grid": null,
+                    "bridge_typ": "Steel_Stringer_w_Cement_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": "Tape measurements test\n",
+                    "would_you_": "Yes",
+                    "please_sel": "Steel_Stringer_w_Cement_Deck",
+                    "span_1": null,
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "83",
+                    "width_br_f": "28 ft 1 in",
+                    "nl": "2",
+                    "ns": "4",
+                    "ss_in": "104.5",
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "17.5",
+                    "b_in": "12",
+                    "d_in": "55.75",
+                    "tf_in": ".75",
+                    "tw_in": ".5",
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -111.76713980199997,
+                            41.11461935700004
+                        ],
+                        [
+                            -111.76742406299996,
+                            41.11454008700008
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+"properties":{
+                        "status":"good",
+                    "globalid": "fc83d54b-d739-4a17-afc3-b667925a1a47",
+                    "CreationDa": "2021-11-24",
+                    "Creator": null,
+                    "EditDate": "2021-11-24",
+                    "Editor": null,
+                    "date_recor": "2021-11-24",
+                    "recorded_b": "Brian S",
+                    "cos_number": null,
+                    "bridge_nam": "Ey Road",
+                    "bridge_num": null,
+                    "grid": null,
+                    "bridge_typ": "Steel_Stringer_w_Cement_Deck",
+                    "bridge_t_o": null,
+                    "is_this_br": "Yes",
+                    "additional": null,
+                    "would_you_": "Yes",
+                    "please_sel": "Steel_Stringer_w_Cement_Deck",
+                    "span_1": "41",
+                    "span_2": null,
+                    "span_3": null,
+                    "span_4": null,
+                    "length_ft": "41",
+                    "width_br_f": "28.3",
+                    "nl": "2",
+                    "ns": "4",
+                    "ss_in": "104.25",
+                    "nb": null,
+                    "sb_ft": null,
+                    "td_in": "9",
+                    "b_in": "11.5",
+                    "d_in": "33",
+                    "tf_in": ".685",
+                    "tw_in": ".5",
+                    "bd_ft": null,
+                    "tc_ft": null,
+                    "df_ft": null,
+                    "r_ft": null,
+                    "lat": null,
+                    "long": null
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [
+                            -113.57128693799996,
+                            42.06768987500004
+                        ],
+                        [
+                            -113.57115347099995,
+                            42.06763387400008
+                        ]
+                    ]
+                }
+            }
+        ]
+    }
+
